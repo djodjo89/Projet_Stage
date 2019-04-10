@@ -1,8 +1,7 @@
 
 public class Banque {
 	
-	private Integer idBanque ;
+	private int idBanque ;
 
-	private boolean ok ;
 	
 }
