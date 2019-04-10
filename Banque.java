@@ -5,6 +5,8 @@ public class Banque {
 	
 	private boolean nom ;
 
+	private String blabla ;
+
 	private boolean ok ;
 	
 }
