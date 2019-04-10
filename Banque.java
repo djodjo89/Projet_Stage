@@ -5,4 +5,6 @@ public class Banque {
 	
 	private boolean nom ;
 
+	private boolean ok ;
+	
 }
